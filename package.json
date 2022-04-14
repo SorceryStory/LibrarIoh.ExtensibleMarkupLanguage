@@ -1,0 +1,20 @@
+{
+  "name": "com.sorceressspell.librarioh.xml",
+  "displayName": "LibrarIoh.Xml",
+  "version": "0.2.0",
+  "type": "library",
+  "unity": "2018.1",
+  "description": "Extended XML functionality for LibrarIoh.\n\nDepends on:\n  - LibrarIoh.Core (https://github.com/SorceressSpell/LibrarIoh.Core)",
+  "dependencies": {
+    "com.sorceressspell.librarioh.core": "0.2.0"
+  },
+  "author": {
+    "name": "Sorceress' Spell",
+    "email": "Sorceress.Spell@gmail.com",
+    "url": "https://SorceressSpell.com/"
+  },
+  "keywords": [
+    "librarioh",
+    "xml"
+  ]
+}

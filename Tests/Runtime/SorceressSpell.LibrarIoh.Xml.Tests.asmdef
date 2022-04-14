@@ -1,0 +1,22 @@
+{
+    "name": "SorceressSpell.LibrarIoh.Xml.Tests",
+    "rootNamespace": "SorceressSpell.LibrarIoh.Xml.Tests",
+    "references": [
+        "SorceressSpell.LibrarIoh.Xml",
+        "UnityEngine.TestRunner",
+        "UnityEditor.TestRunner"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
