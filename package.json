@@ -4,7 +4,7 @@
   "version": "0.2.0",
   "type": "library",
   "unity": "2018.1",
-  "description": "Extended XML functionality for LibrarIoh.\n\nDepends on:\n  - LibrarIoh.Core (https://github.com/SorceressSpell/LibrarIoh.Core)",
+  "description": "LibrarIoh.Xml (https://github.com/SorceressSpell/LibrarIoh.ExtensibleMarkupLanguage)\nExtended XML functionality for LibrarIoh.\n\nDepends on:\n  - LibrarIoh.Core (https://github.com/SorceressSpell/LibrarIoh.Core)",
   "dependencies": {
     "com.sorceressspell.librarioh.core": "0.2.0"
   },
