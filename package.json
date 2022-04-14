@@ -6,12 +6,12 @@
   "unity": "2018.1",
   "description": "LibrarIoh.Xml (https://github.com/SorceressSpell/LibrarIoh.ExtensibleMarkupLanguage)\n\nExtended XML functionality for LibrarIoh.\n\nDepends on:\n  - LibrarIoh.Core (https://github.com/SorceressSpell/LibrarIoh.Core)",
   "dependencies": {
-    "com.sorceressspell.librarioh.core": "0.2.0"
+    "com.sorceressspell.librarioh.core": "0.3.0"
   },
   "author": {
     "name": "Sorceress' Spell",
     "email": "Sorceress.Spell@gmail.com",
-    "url": "https://SorceressSpell.com/"
+    "url": "http://SorceressSpell.com"
   },
   "keywords": [
     "librarioh",

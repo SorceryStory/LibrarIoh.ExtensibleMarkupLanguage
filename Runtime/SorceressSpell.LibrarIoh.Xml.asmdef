@@ -2,7 +2,7 @@
     "name": "SorceressSpell.LibrarIoh.Xml",
     "rootNamespace": "SorceressSpell.LibrarIoh.Xml",
     "references": [
-        "SorceressSpell.LibrarIoh"
+        "SorceressSpell.LibrarIoh.Core"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
