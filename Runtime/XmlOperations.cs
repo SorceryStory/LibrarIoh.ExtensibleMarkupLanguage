@@ -20,9 +20,9 @@ namespace SorceressSpell.LibrarIoh.Xml
             xmlElement.Attributes.Append(xmlAttribute);
         }
 
-        public static void AppendNewDeclaration(XmlDocument xmlDocument, string version, string encoding, string standalone)
+        public static void AppendNewDeclaration(XmlDocument xmlDocument, string version, string encoding, bool standalone)
         {
-            XmlDeclaration xmlDeclaration = xmlDocument.CreateXmlDeclaration(version, encoding, standalone);
+            XmlDeclaration xmlDeclaration = xmlDocument.CreateXmlDeclaration(version, encoding, standalone ? "yes" : "no");
             xmlDocument.AppendChild(xmlDeclaration);
         }
 
