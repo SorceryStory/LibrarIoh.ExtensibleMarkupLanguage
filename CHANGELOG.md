@@ -1,5 +1,11 @@
 # Changelog
 
+## [0.2.1] - 2023-01-31
+
+## Added
+
+- `Dictionary<string, string>` Extensions
+
 ## [0.2.0] - 2022-04-14
 
 ### Added

@@ -1,15 +1,15 @@
 {
   "name": "com.sorceressspell.librarioh.xml",
   "displayName": "LibrarIoh.Xml",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "type": "library",
   "unity": "2018.1",
-  "description": "LibrarIoh.Xml (https://github.com/SorceressSpell/LibrarIoh.ExtensibleMarkupLanguage)\n\nExtended XML functionality for LibrarIoh.\n\nDepends on:\n  - LibrarIoh.Core (https://github.com/SorceressSpell/LibrarIoh.Core)",
+  "description": "LibrarIoh.Xml (https://github.com/SorceryStory/LibrarIoh.ExtensibleMarkupLanguage)\n\nExtended XML functionality for LibrarIoh.\n\nDepends on:\n  - LibrarIoh.Core (https://github.com/SorceryStory/LibrarIoh.Core)",
   "dependencies": {
     "com.sorceressspell.librarioh.core": "0.3.0"
   },
   "author": {
-    "name": "Sorceress' Spell",
+    "name": "Joana Almeida",
     "email": "Sorceress.Spell@gmail.com",
     "url": "http://SorceressSpell.com"
   },
