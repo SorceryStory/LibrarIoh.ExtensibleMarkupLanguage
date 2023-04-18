@@ -6,7 +6,7 @@
   "unity": "2018.1",
   "description": "LibrarIoh.Xml (https://github.com/SorceryStory/LibrarIoh.ExtensibleMarkupLanguage)\n\nExtended XML functionality for LibrarIoh.\n\nDepends on:\n  - LibrarIoh.Core (https://github.com/SorceryStory/LibrarIoh.Core)",
   "dependencies": {
-    "com.sorceressspell.librarioh.core": "0.3.0"
+    "com.sorceressspell.librarioh.core": "0.4.1"
   },
   "author": {
     "name": "Joana Almeida",
